@@ -1,0 +1,102 @@
+body{
+    background-image: url(WallpaperDog-5492425.jpg);
+    color: white;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body,html{
+    height: 90%;
+    margin: 0;
+}
+
+.top-section{
+    height: 80px;
+    width: auto;
+    margin-left: 600px;
+    margin-top: 20px;
+    background-color: rgba(13, 31, 52, 0.61);
+    backdrop-filter: blur(5px);
+}
+
+.middle-section{
+    width: 340px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 140px;
+    margin-bottom: 50px;
+}
+
+.explore-section{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    color: black;
+    background-color: white;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 1100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.temp{
+    position: relative;
+    margin-top: 80px;
+    letter-spacing: 3px;
+}
+
+h2{
+    font-family: 'Strait', sans-serif;
+}
+
+h3{
+    font-family: 'Strait', sans-serif;
+    font-size: 1.5em;
+    margin: auto auto 0px auto;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 4em;
+    letter-spacing: 20px;
+    margin: 0px auto 0px auto;
+}
+
+p{
+    font-family: 'Playfair Display', serif;
+}
+
+table{
+    width: 70%;
+    font-family: 'Strait', sans-serif;
+    border-spacing: 30px;
+    border-collapse:separate;
+    margin-left: 60px;
+    font-size: larger;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgba(47, 116, 194, 0.61);
+}
+
+hr{
+    width: 550px;
+    position: absolute;
+    margin: 39px 100px;
+}
+
+.pic{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 15px;
+}
